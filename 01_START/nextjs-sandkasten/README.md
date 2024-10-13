@@ -26,4 +26,4 @@ This project is a sandbox web application built with [Next.js](https://nextjs.or
 - Light and dark themes.
 
 ## Author
-Created by Michal Frost.
+Created by Michal Frost!
